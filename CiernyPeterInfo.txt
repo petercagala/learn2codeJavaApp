@@ -1,0 +1,5 @@
+Priečinok CiernyPeter obsahuje konzolovú aplikáciu stolovej hry Čierny Peter.
+Dokonca na ceste learn2codeJavaApp\CiernyPeter\out\artifacts\CiernyPeter_jar 
+sa nachádza súbor run.bat, ktorý umožní jej spustenie v operačnom systéme Windows. 
+Odporúčam sa uistiť, že máte v počítači nainštalovanú najnovšiu verziu Javy, 
+aby sa Vám to spustilo bez problémov a mohli si hru zahrať.
